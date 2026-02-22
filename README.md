@@ -181,48 +181,34 @@ me.say_hi()
 
 ---
 
-<!-- ## 🎓 Education
-
-<div align="center">
-
-| 🏫 Institution | 📚 Degree | 📍 Location | 📅 Year | 🎯 GPA |
-|:---|:---|:---|:---|:---|
-| 🇮🇹 **University of Genoa (M2)** | European Master's in Advanced Robotics *(EMARO)* | Genova, Italy | 2024–2025 | — |
-| 🇫🇷 **École Centrale de Nantes (M1)** | Advanced Robotics | Nantes, France | 2023–2024 | **8.8/10** |
-| 🇮🇳 **Anna University** | Bachelor's in Mechanical Engineering | Chennai, India | 2017–2021 | **7.1/10** |
-
-> 🏅 **Consortium Scholarship** — Awarded for the EMARO program, covering **€5,000 (2024–2025)**
-
-</div>
-
---- -->
-
-<!-- ## 📜 Certifications
-
-<div align="center">
-
-| 📋 Certification | 🏢 Platform | 📅 Date |
-|:---|:---|:---|
-| Control System UAV (3D Dynamics & Control) | Udemy | Sep 2025 |
-| ROS2 SLAM & Navigation | Udemy | Nov 2024 |
-| Control Design with Simulink | Mathworks | Nov 2024 |
-| Advanced Learning Algorithms | Coursera | Jan 2024 |
-| ROS2 Foxy & Humble | Udemy | Apr 2024 |
-| Supervised Machine Learning: Regression & Classification | Coursera | Dec 2023 |
-| Complete CATIA V5 Training | Udemy | Feb 2023 |
-
-</div> -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlvinIsac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinIsac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff&langs_count=8" height="165"/>
-
 <br/>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Alvin Isac's GitHub Stats"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AlvinIsac&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff"
+             height="192px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Alvin Isac's Top Languages"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlvinIsac&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff&hide=Jupyter%20Notebook,Roff"
+             height="192px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img src="https://streak-stats.demolab.com/?user=AlvinIsac&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="500"/>
+
+<br/>
 
 <br/><br/>
 

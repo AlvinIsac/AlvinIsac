@@ -13,6 +13,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvin-isac-premsunder)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvinIsac)
+[![Resume](https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=briefcase&logoColor=black)](https://alvinisac.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvinisac3399@gmail.com)
 [![Location](https://img.shields.io/badge/Nantes%2C%20France-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -177,6 +178,10 @@ me.say_hi()
 </tr>
 </table>
 
+<br/>
+
+> 💡 **Want to see more?** Feel free to explore my other projects on [GitHub](https://github.com/AlvinIsac?tab=repositories).
+
 </div>
 
 ---
@@ -210,7 +215,7 @@ me.say_hi()
 
 <br/>
 
-<br/><br/>
+### 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvinIsac/AlvinIsac/output/github-contribution-grid-snake-dark.svg">

@@ -163,6 +163,8 @@ me.say_hi()
 
 **Tools:** `ROS2 Humble` `ROS1` `Raspberry Pi 3+` `URDF/Xacro` `Rviz2` `Packer` `Embedded Linux`
 
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AlvinIsac/TurtleBot2-ROS2-Migration)
+
 </td>
 <td width="50%">
 

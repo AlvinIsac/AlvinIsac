@@ -11,11 +11,11 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/alvin-isac-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/AlvinIsac" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://alvinisac.github.io/" target="_blank"><img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=briefcase&logoColor=black" alt="Resume"/></a>
-<a href="mailto:alvinisac3399@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nantes%2C%20France-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvin-isac-/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvinIsac)
+[![Resume](https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=briefcase&logoColor=black)](https://alvinisac.github.io/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvinisac3399@gmail.com)
+[![Location](https://img.shields.io/badge/Nantes%2C%20France-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -108,9 +108,9 @@ me.say_hi()
 
 <!-- [![Thesis](https://img.shields.io/badge/Master%20Thesis-View%20PDF-blue?style=flat-square&logo=readthedocs)](https://raw.githubusercontent.com/AlvinIsac/UAV-PAYLOAD-MODEL-PREDICTIVE-CONTROL-REPORT/main/Alvin_Isac_Master_Thesis.pdf) -->
 
-<a href="https://raw.githubusercontent.com/AlvinIsac/UAV-PAYLOAD-MODEL-PREDICTIVE-CONTROL-REPORT/main/Alvin_Isac_Master_Thesis.pdf?raw=true" target="_blank"><img src="https://img.shields.io/badge/Master%20Thesis-View%20Link-blue?style=flat-square&logo=readthedocs" alt="Master Thesis"/></a>
+[![Thesis](https://img.shields.io/badge/Master%20Thesis-View%20Link-blue?style=flat-square&logo=readthedocs)](https://raw.githubusercontent.com/AlvinIsac/UAV-PAYLOAD-MODEL-PREDICTIVE-CONTROL-REPORT/main/Alvin_Isac_Master_Thesis.pdf?raw=true{:download="Alvin_Isac_Master_Thesis.pdf"})
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-Coming%20Soon-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+[![Repo](https://img.shields.io/badge/GitHub-Coming%20Soon-181717?style=flat-square&logo=github)]()
 
 </td>
 <td width="50%">
@@ -122,7 +122,7 @@ me.say_hi()
 
 **Tools:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `OpenCV` `Kaggle`
 
-<a href="https://github.com/AlvinIsac/Machine_Learning_Algorithms" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AlvinIsac/Machine_Learning_Algorithms)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ me.say_hi()
 
 **Tools:** `MATLAB/Simulink` `VRML` `PHANToM SDK` `Signal Processing` `Haptic Control` `State Flow Matlab`
 
-<a href="https://github.com/AlvinIsac/BioMedical_Robotics" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AlvinIsac/BioMedical_Robotics)
 
 </td>
 <td width="50%">
@@ -148,7 +148,7 @@ me.say_hi()
 
 **Tools:** `SLAM/Cartographer` `Nav2` `AMCL` `Gazebo` `LiDAR` `OpenCV2` `Docker` `Rviz2`
 
-<a href="https://github.com/AlvinIsac/exprob_assignment_2" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AlvinIsac/exprob_assignment_2)
 
 
 </td>
@@ -172,7 +172,7 @@ me.say_hi()
 
 **Tools:** `Python` `Selenium` `Google Sheets API` `gspread` `Pandas` `Web Scraping` `Google Cloud API` `Javascript`
 
-<a href="https://github.com/AlvinIsac/Tccl_App" target="_blank"><img src="https://img.shields.io/badge/GitHub-Private%20Repo-555?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+[![Repo](https://img.shields.io/badge/GitHub-Private%20Repo-555?style=flat-square&logo=github)](https://github.com/AlvinIsac/Tccl_App)
 
 </td>
 </tr>
@@ -180,7 +180,7 @@ me.say_hi()
 
 <br/>
 
-> 💡 **Want to see more?** Feel free to explore my other projects on <a href="https://github.com/AlvinIsac?tab=repositories" target="_blank">GitHub</a>.
+> 💡 **Want to see more?** Feel free to explore my other projects on [GitHub](https://github.com/AlvinIsac?tab=repositories).
 
 </div>
 
@@ -231,15 +231,15 @@ me.say_hi()
 
 <div align="center">
 
-<a href="mailto:alvinisac3399@gmail.com" target="_blank">
+<a href="mailto:alvinisac3399@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:alvin-isac.prem-sunder@eleves.ec-nantes.fr" target="_blank">
+<a href="mailto:alvin-isac.prem-sunder@eleves.ec-nantes.fr">
   <img src="https://img.shields.io/badge/Academic%20Email-003087?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/alvin-isac-/" target="_blank">
+<a href="https://www.linkedin.com/in/alvin-isac-/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

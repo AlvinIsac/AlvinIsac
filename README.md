@@ -32,7 +32,7 @@ class AlvinIsac:
         self.age        = 26
         self.location   = "Nantes, France 🇫🇷"
         self.degree     = "European Master's in Advanced Robotics (EMARO)"
-        self.univesity  = "École Centrale de Nantes & University of Genoa"
+        self.university = "École Centrale de Nantes & University of Genoa"
         self.gpa        = "8.8 / 10 CGPA"
         self.languages  = ["Tamil 🤝", "English 💼", "French 🥐", "Italian 🍕"]
         self.open_to    = "Robotics | Control | Automation Roles Worldwide 🌍"
@@ -170,9 +170,9 @@ me.say_hi()
 
 ### 📊 TCCL Automation System *(Ongoing)*
 
-> Building a **Python automatic billing and recharging tool** that works with Google Spread Sheets auto-exports data to CSV, create Reciepts for the customers and recharge automatically using Selenium. Makes easy for cable TV operators and handling customers info.
+> Building a **Python automatic billing and recharging tool** that works with Google Sheets auto-exports data to CSV, create Receipts for the customers and recharge automatically using Selenium. Makes easy for cable TV operators and handling customers info.
 
-**Tools:** `Python` `Selenium` `Google Sheets API` `gspread` `Pandas` `Web Scraping` `Google Cloud API` `Javascript`
+**Tools:** `Python` `Selenium` `Google Sheets API` `gspread` `Pandas` `Web Scraping` `Google Cloud API` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/GitHub-Private%20Repo-555?style=flat-square&logo=github)](https://github.com/AlvinIsac/Tccl_App)
 

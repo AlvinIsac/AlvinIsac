@@ -110,7 +110,7 @@ me.say_hi()
 
 [![Thesis](https://img.shields.io/badge/Master%20Thesis-View%20Link-blue?style=flat-square&logo=readthedocs)](https://raw.githubusercontent.com/AlvinIsac/UAV-PAYLOAD-MODEL-PREDICTIVE-CONTROL-REPORT/main/Alvin_Isac_Master_Thesis.pdf?raw=true{:download="Alvin_Isac_Master_Thesis.pdf"})
 
-[![Repo](https://img.shields.io/badge/GitHub-Coming%20Soon-181717?style=flat-square&logo=github)]()
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AlvinIsac/NMPC_Multi_UAVs_Payload_System_Master_Thesis)
 
 </td>
 <td width="50%">

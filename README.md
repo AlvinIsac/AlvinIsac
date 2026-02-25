@@ -264,6 +264,7 @@ me.say_hi()
 <!-- Footer wave -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=200&section=footer" width="100%"/> -->
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:001F3F,100:00008B&height=200&section=footer&text=THANK%20YOU%20!!!&fontSize=45&fontColor=00FFFF&animation=blinking" width="100%"/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=200&section=footer&text=THANK%20YOU%20!!!&fontSize=40&fontColor=ffffff&animation=blinking" width="100%"/> -->

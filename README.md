@@ -44,9 +44,9 @@ me = AlvinIsac()
 me.say_hi()
 ```
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Robotics GIF" width="535" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejljejEzeTZydzlvc2gzdjF3bjlnNHJnNmh4eGtmcjB4aWM0eWg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2m1WnCqNuyEJnigDAP/giphy.gif"/>
-</div>
+</div> -->
 
 ---
 > 🏅 **Consortium Scholarship** — Awarded for the EMARO program, covering **€5,000 (2024–2025)**
